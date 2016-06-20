@@ -9,6 +9,6 @@ Contains:
 - example of "pure" [AirBnB JavaScript][airbnb] eslint setup (complete with React)
 - example of a "customised" AirBnB set up based on the above
 
-[eslint] - http://eslint.org
-[editorconfig] - http://editorconfig.org
-[airbnb] - https://github.com/airbnb/javascript
+[eslint]: http://eslint.org
+[editorconfig]: http://editorconfig.org
+[airbnb]: https://github.com/airbnb/javascript

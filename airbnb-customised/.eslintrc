@@ -1,14 +1,14 @@
 {
-	"extends": "airbnb",
-	"ecmaFeatures": {
-		"jsx": true,
-		"modules": true,
-	},
-	"env": {
-		"browser": true,
-		"node": true,
-		"es6": true,
-	},
+  "extends": "airbnb",
+  "ecmaFeatures": {
+    "jsx": true,
+    "modules": true,
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+  },
   "rules": {
     "spaced-comment": 0,
     "no-console": 0,

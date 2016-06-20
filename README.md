@@ -11,7 +11,6 @@ Contains:
 - an example `.scss-lint.yml` with some reasonable defaults for [scss-lint](https://github.com/brigade/scss-lint)
 - an example `.stylintrc` with some reasonable defaults for [stylint](https://github.com/rossPatton/stylint)
 - an example `.markdownlintrc` file to configure markdownlint [node](https://github.com/DavidAnson/markdownlint)/[ruby](https://github.com/mivok/markdownlint)
->>>>>>> master
 
 [eslint]: http://eslint.org
 [editorconfig]: http://editorconfig.org
